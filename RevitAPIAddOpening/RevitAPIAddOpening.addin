@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIAddOpening.dll"</Assembly>
+    <AddInId>F79FADBE-4597-4CB4-A2E9-39848F7DFFF7</AddInId>
+    <FullClassName>RevitAPIAddOpening.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>AddOpening</Text>
+  </AddIn>
+</RevitAddIns>
